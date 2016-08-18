@@ -1,0 +1,17 @@
+{
+    "name": "martelsans-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Dan Reynolds and Mathieu R\u00e9guer"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/martelsans-bower.git"
+    },
+    "description": "Martel Sans font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
